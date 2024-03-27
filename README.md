@@ -83,5 +83,22 @@ para poner un enlance
 
 [enlace en linea](www.enlace.net)
 
+COMANDOS PARA GITHUB
+
+1. **git status:** _se usa para comprobar el estatus de un repositorio_
+
+2. **git add:** _se utiliza para añadir archivos individuales o globales_
+
+3. **git commit:** _se utiliza para añadir comentarios a la confirmacion_
+
+4. **git push** _nos ayuda a subir los cambios al repositorio_
+
+5. **git branch + el nombre de la rama** _es para crear una rama nueva_
+
+6. **git checkout** _es para navegar en las ramas_
+
+7. **git push remoteName -d branchName** _es para eliminar una rama_
+
+8. **git checkout + el commit al que se quiere ir** _se usa para regresar a en un repositorio a un commit en especifico_
 
 
